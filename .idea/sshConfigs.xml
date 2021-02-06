@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="proxy.nscc-gz.cn" id="49630f60-bd13-4b2c-906e-f17ffa1e0c4c" port="8022" nameFormat="DESCRIPTIVE" username="hit_qliao_1" />
-    </configs>
-  </component>
-</project>
