@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3b51cbe4-0477-4ee7-bdc9-2479cb281efa" name="超算">
+        <fileTransfer rootFolder="/GPUFS/hit_qliao_1/zengzihui/dcgan" accessType="SFTP" host="proxy.nscc-gz.cn" port="8022" sshConfigId="49630f60-bd13-4b2c-906e-f17ffa1e0c4c" sshConfig="hit_qliao_1@proxy.nscc-gz.cn:8022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
